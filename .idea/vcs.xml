@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Git-Demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Git-Demo/testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Learn-MEN-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mDBwithExpress" vcs="Git" />
+  </component>
+</project>

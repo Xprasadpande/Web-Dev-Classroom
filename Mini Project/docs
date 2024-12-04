@@ -1,0 +1,7 @@
+event bumbling >>>. 
+
+means jb bhi hum nested objects pr event listner lagate hai voh overlaped hota hai
+div ke inner click kiya toh with ul and list hoga
+
+event delegation >>
+

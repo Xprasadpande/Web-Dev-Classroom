@@ -1,0 +1,76 @@
+what is git ?
+~ free and open soures Version control system. >>> tool that help to track change in code.
+
+track history / help to collaborate
+
+what is github ?
+~ website where we host repositorty online.
+
+basic commands 
+
+clone >>> cloning repo on our local machine
+
+status >>> display the state of the code
+
+add >>> adds new or changed files in your working directory to the git staging area. git add (file name)
+
+commit >>> it is record to change.
+git commit -m"some msg"
+
+push >>> upload local repo content to remote repo
+git push origin main
+
+init command  >>> used to create a new git repo (git init)
+git remote add origin <link>
+git remote-v (to varify remote)
+git branch(to cheack branch)
+git branch-M main (to rename branch)
+git push origin main
+
+branch commands 
+
+git branch (to cheack branch) 
+git branch -m main (to rename branch) 
+git cheackout <branch name> (to navigate) 
+git checkout -b<new branch name> (to create a new branch)
+
+git branch -d <branch name> (to delete branch)
+
+merging code
+
+git diff <branch name>  (to compare commits, branches, files and more)
+
+git merge <branch name>  (to merge 2 branches)
+
+orr
+
+create pr (pull request)
+
+pull request
+>> it lets you tell others about chnages you pushed to a branch in a repo on github
+
+pull command 
+
+git pull origin main 
+>>> Used to fetch and download content from a remote repo and 
+immediately update the local repo to match that content.
+
+mearge conflict 
+>>> An event that takes place when git is unable to automaticaly resolve diffrance 
+in code between two commits
+
+
+fixing mistake
+
+case 1 : staged changes 
+          git reset <file name> 
+          git reset
+
+
+case 2 : commmited changes (for one commit)
+     
+         git reset HEAD~1 
+
+case 3 : commited changes (for many commites)
+        git reset <commit hash>
+        git reset --hard <commit hash>

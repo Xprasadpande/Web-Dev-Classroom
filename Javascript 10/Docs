@@ -1,0 +1,20 @@
+DOM events....
+
+Def >> Events are signals that something has occured (user inputs / actions).
+
+1) onclick (when an element is clicked) >>> click krne par action perform krna.
+
+2) onmouseenter (when mouse enters an elemnt)
+
+Events listner 
+
+1) addEventListner >>>  to perform multiple fungtion 
+
+Event listner for element ;
+
+this in event listener
+
+when "this" is use in callback of event handler of something, it refer to that something,
+
+Keyboard event>>
+

@@ -1,0 +1,11 @@
+call stack >>>
+
+JS single thread language >> ak time pr ak kam 
+
+promices  object >> the promice object represent the eventual completion (or failure) of an asynchronous opration 
+and its resulting value
+
+ then and catch method
+
+ fullfiled >> .then 
+ reject >>> .catch

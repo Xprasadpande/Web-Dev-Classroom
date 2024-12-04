@@ -1,0 +1,67 @@
+Async keyword
+
+creates async function. >>> return promices.
+
+throw keyword ka kam hota hai error ko trow krna.
+
+await keyword.
+
+Api  >> application programing interface >>> ak hotel waiter
+
+
+boredapi.com/api/activity  
+
+what is json >> javascript object notation >>> format  >>
+
+XmL >>  extencible markup language
+
+ JSON >>
+ Accecing data from JSON
+
+ JSON.parce(data) method >> to parce a string in to js object >> ak data format me dusre data format me change krna
+ json data >>>> js object
+ 
+ 
+ JSON.stringify(json) method >> to parce a js object data into json
+
+ js object >>>> jsondata
+
+
+
+ Testing api request >>> 
+
+ Tools >>> Hoppscoth >>> postman
+
+
+ AJAx >>> asynchronous javascript and XML 
+
+ HTTP verbs >> 
+ GET >>> jb bhi koi info leni ho
+ post >>>  kuch data bhejna 
+ delete>>> 
+
+
+
+Stastus code  >>>
+
+200 >> 0k it means ok 
+
+404 >>> not found galat api ko call ki jo exist nhi krti
+
+400 >> bad request 
+
+500 >> internal server error
+
+
+add information in URL >>>
+
+querry strings
+
+https://www.google.com/search?q=harry+potter 
+
+q = key , value = harry potter
+
+
+http header >>> additional info supply krte hai
+
+oue first req >>> using fetch(url)

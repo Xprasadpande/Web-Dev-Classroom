@@ -1,0 +1,53 @@
+Terminal >>> a text based input output enviorment
+
+ls = list files (show my files)
+
+pwd = print working directory (where am i?)
+
+Navigation >>>
+
+inside and outside directory
+
+cd = change diredtory
+
+cd.. for back  
+
+Paths >>>
+
+cd desktop/delta (relative path)
+
+cd /users/pande/desktop (absolute path)
+
+/= root directory 
+
+~= home directory
+
+
+Making dire >>>
+
+mkdir = make directory (only create folder)
+
+
+flags >>.
+
+flags are charachter that we pass with command to modify thir behavior 
+
+manual command 
+
+man is -give info about is command
+man mkdir - give info about mkdir command
+
+with flags 
+
+
+Touch commans (to create a files)
+
+touch imdex.html
+
+delete files and folders 
+
+rm >>> remove files
+
+rmdir >>> remove empty folder 
+
+rm -rf >>> remove any  folder  r means recursive delete f means forced delete
