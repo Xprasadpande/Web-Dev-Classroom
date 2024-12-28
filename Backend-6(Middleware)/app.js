@@ -14,6 +14,7 @@ let port = 8080;
 //   next();
 // });
 
+// logar - morgan
 // app.use((req, res, next) => {
 //   console.log(req.method, req.hostname, req.path );
 //   next();
